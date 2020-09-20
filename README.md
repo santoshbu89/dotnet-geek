@@ -1,6 +1,7 @@
 ## Who We Are?
 
 We are a team of freelanceers. We provide an end to end IT solutions to business i.e. from understanding requirements, designing system, architecting, developing, testing, deploying and to maintain & support it.
+We also built data driven artifical intelligence based products and services using machine learning, deep learning and natural language processing.
 
 ### Domains we already delivered projects.
 
