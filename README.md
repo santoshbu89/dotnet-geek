@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Who We Are?
 
-You can use the [editor on GitHub](https://github.com/santoshbu89/itspirits/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We are a team of freelanceers. we provide end to end IT solutions to business i.e. from understanding requirements, designing system, architecting, developing, testing, deploying and to maintain & support it.
 
 ### Markdown
 
@@ -34,4 +32,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Reach us on itspirits89@gmail.com.
