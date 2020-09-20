@@ -30,4 +30,4 @@ We are expertised in developing web, mobile and desktop application. We have han
 
 ### Support or Contact
 
-Contact us via email: (itspirits89@gmail.com)
+Contact us via email: [Link](itspirits89@gmail.com)
