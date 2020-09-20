@@ -6,11 +6,23 @@ We are a team of freelanceers. we provide end to end IT solutions to business i.
 
 We have good understanding of Banking and Financial services, Automotives, Oil Industries, Healthcare and Education system.
 
-```Technolgies
-We are expertised in below mentioned technologies and tools.
+### Tools and Technologies
 
-# C# .Net
-# Asp.Net (Web Forms and MVC)
+We are expertised in developing web, mobile and desktop application. We have handson with with mentioned tools & technologies.
+
+- C#
+- .Net
+- .Net Core
+- Asp.Net (Web Forms and MVC)
+- Web API
+- Windows Communication Foundation (WCF)
+- Windows Presentation Foundation (WPF)
+- Xamarin Forms
+- Microsoft SQL Server
+- MySQL
+- ADO.Net
+- Entity Framework
+- Blazor
 
 
 
