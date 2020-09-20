@@ -2,34 +2,20 @@
 
 We are a team of freelanceers. we provide end to end IT solutions to business i.e. from understanding requirements, designing system, architecting, developing, testing, deploying and to maintain & support it.
 
-### Markdown
+### Domains we already delivered projects.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We have good understanding of Banking and Financial services, Automotives, Oil Industries, Healthcare and Education system.
 
-```markdown
-Syntax highlighted code block
+```Technolgies
+We are expertised in below mentioned technologies and tools.
 
-# Header 1
-## Header 2
-### Header 3
+# C# .Net
+# Asp.Net (Web Forms and MVC)
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/santoshbu89/itspirits/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Contact us via email: itspirits89@gmail.com.
+Contact us via email: [itspirits89@gmail.com]
