@@ -1,6 +1,6 @@
 ## Who We Are?
 
-We are a team of freelanceers. we provide end to end IT solutions to business i.e. from understanding requirements, designing system, architecting, developing, testing, deploying and to maintain & support it.
+We are a team of freelanceers. We provide an end to end IT solutions to business i.e. from understanding requirements, designing system, architecting, developing, testing, deploying and to maintain & support it.
 
 ### Domains we already delivered projects.
 
@@ -8,7 +8,7 @@ We have good understanding of Banking and Financial services, Automotives, Oil I
 
 ### Tools and Technologies
 
-We are expertised in developing web, mobile and desktop application. We have handson with with mentioned tools & technologies.
+We are expertised in developing web, mobile and desktop application. We have handson with below mentioned tools & technologies.
 
 - C#
 - .Net
