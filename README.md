@@ -1,4 +1,4 @@
-## Who We Are?
+## Who am I?
 
 I provide an end to end IT solutions to business i.e. from understanding requirements, designing system, architecting, developing, testing, deploying and to maintain & support it.
 
