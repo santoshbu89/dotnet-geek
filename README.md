@@ -1,6 +1,6 @@
 ## Who am I?
 
-I provide an end to end IT solutions to business i.e. from understanding requirements, designing system, architecting, developing, testing, deploying and to maintain & support it.
+Passionate C# .Net application developer with 9+ years of experience involved in all phases of SDLC and lead the team with technical lead role. Handled multiple topics parallelly, mentored the team members and developed innovative solutions to complex problems.
 
 
 ### Domains I already delivered projects.
