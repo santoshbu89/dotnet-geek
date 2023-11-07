@@ -1,6 +1,6 @@
 ## Who am I?
 
-Passionate C# .Net application developer with 10+ years of experience involved in all phases of SDLC. Worked as an individual contributor and as well as team lead. Handled multiple topics parallelly, mentored the team members and developed innovative solutions to complex problems.
+Passionate C# .Net application developer with 11+ years of experience involved in all phases of SDLC. Worked as an individual contributor and as well as team lead. Handled multiple topics parallelly, mentored the team members and developed innovative solutions to complex problems.
 
 
 ### Domains I already delivered projects.
