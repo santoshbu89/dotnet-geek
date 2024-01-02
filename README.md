@@ -15,7 +15,10 @@ Expertised in developing web, mobile and desktop application. I have handson wit
 - C#
 - .Net
 - .Net Core
-- Asp.Net (Web Forms and MVC)
+- Asp.Net(Web Forms & MVC)
+- Asp.Net Core(MVC & Blazor)
+- AWS(Amazon Web Services)
+- Microsoft Azure
 - Web API
 - Windows Communication Foundation (WCF)
 - Windows Presentation Foundation (WPF)
@@ -25,7 +28,6 @@ Expertised in developing web, mobile and desktop application. I have handson wit
 - MySQL
 - ADO.Net
 - Entity Framework
-- Blazor
 - Apache SOLR
 - Snowflake
 - MySQL
